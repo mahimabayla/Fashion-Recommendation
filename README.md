@@ -55,7 +55,7 @@ Installation:-
         3.	Download and Prepare Data:
                  Follow the instructions in the data/ directory to download and prepare the datasets.
 	4.	Run the Application:
-                 python app.py
+                 streamlit run app.py
 
 Usage:-
 
